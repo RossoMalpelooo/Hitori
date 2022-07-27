@@ -1,0 +1,16 @@
+function change(td, fieldname) {
+	field = document.getElementById(fieldname);
+	if (td.className == 'black') {
+		td.className = 'circle';
+		field.value = 'circle';
+	} else if (td.className == 'circle') {
+		td.className = 'white';
+		field.value = 'white';
+	} else if (td.className == 'white') {
+		td.className = 'black';
+		field.value = 'black';
+	} else {
+		td.className = 'white';
+		field.value = 'white';
+	}
+}
