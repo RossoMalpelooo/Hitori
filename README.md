@@ -7,4 +7,5 @@ It is a simulation of the game "Hitori" written in Python and some HTML for styl
 3. the remaining numbered cells must be all connected to each other, horizontally or vertically.
 # Credits
 Michele Tomaiuolo - https://github.com/tomamic/fondinfo.
-Michele Bandini - @MarlonBando - https://github.com/MarlonBando.
+
+Michele Bandini - https://github.com/MarlonBando.
